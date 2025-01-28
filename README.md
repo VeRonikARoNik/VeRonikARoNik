@@ -47,9 +47,9 @@ I am a technology enthusiast with a strong interest in practical applications ac
 ---
 
 ## 📂 Projects
--🔹 **Data Balancing Algorithm** (Master’s Thesis): Developed an algorithm for handling unbalanced data in Python.
--🔹 **Excel & Data Analysis Teaching**: Teaching Excel, charting, and reporting functions at Gdynia Maritime University.
--🔹 **Website Design & Algorithm Applications**: Educating students on web development principles.
+🔹 **Data Balancing Algorithm** (Master’s Thesis): Developed an algorithm for handling unbalanced data in Python.
+🔹 **Excel & Data Analysis Teaching**: Teaching Excel, charting, and reporting functions at Gdynia Maritime University.
+🔹 **Website Design & Algorithm Applications**: Educating students on web development principles.
 
 ---
 
