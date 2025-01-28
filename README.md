@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **VeRonikARoNik/VeRonikARoNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💻 Veronika Hordieieva
+# Hi there 👋 💻 Veronika Hordieieva
 
 ### 🚀 Technology Enthusiast | Data Analyst | Web Developer | IoT & Aviation Tech Passionate
 
