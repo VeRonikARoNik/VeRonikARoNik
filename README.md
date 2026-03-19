@@ -7,9 +7,9 @@
 ---
 
 ## 🔬 Research & Academic Impact
-* [cite_start]**Published Author:** "A Comparative Study of Oversampling Techniques for Imbalanced Network Attack Detection" in *Procedia Computer Science* (2025)[cite: 80, 81, 82].
-* [cite_start]**Focus:** Improving Machine Learning recall in cybersecurity using **SMOTE, ADASYN**, and advanced data balancing algorithms[cite: 83].
-* [cite_start]**Teaching:** Leading academic labs in **Backend Development (Java/Python)**, **SQL Databases**, and **Data Visualization** at Gdynia Maritime University[cite: 35, 36, 38, 39, 68, 69].
+* **Published Author:** "A Comparative Study of Oversampling Techniques for Imbalanced Network Attack Detection" in *Procedia Computer Science* (2025).
+* **Focus:** Improving Machine Learning recall in cybersecurity using **SMOTE, ADASYN**, and advanced data balancing algorithms[cite: 83].
+* **Teaching:** Leading academic labs in **Backend Development (Java/Python)**, **SQL Databases**, and **Data Visualization** at Gdynia Maritime University.
 
 ---
 
