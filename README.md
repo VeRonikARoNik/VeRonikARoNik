@@ -42,7 +42,6 @@
 ## 📫 Let's Connect!
 * [cite_start]**LinkedIn:** [Veronika Hordieieva](https://www.linkedin.com/in/veronika-hordieieva-a514b6296/) [cite: 3, 56]
 * [cite_start]**Email:** vhordieieva@gmail.com [cite: 3, 55]
-* [cite_start]**Phone:** +48 698 657 174 [cite: 2, 54]
 
 ---
 *“Turning complex data into secure, scalable solutions.”*
