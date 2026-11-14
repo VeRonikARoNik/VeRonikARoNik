@@ -1,4 +1,4 @@
-# Hi there! I'm Veronika Hordieieva 
+# Hi there! I'm Veronika Pieper (Hordieieva)
 
 ### Software Engineer & Data Scientist | Research Assistant at Gdynia Maritime University
 
